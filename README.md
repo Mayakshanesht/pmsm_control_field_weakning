@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive implementation of Permanent Magnet Synchronous Motor (PMSM) control systems, including both non-salient and salient pole motor control strategies with field weakening capabilities.
 
+Youtube Playlist: https://www.youtube.com/playlist?list=PLFjFRmQyEKQTvLAP-C8akt9MBvG3oWwLQ
+
 ## Project Structure
 
 ```
